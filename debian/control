@@ -2,7 +2,7 @@ Source: fcitx-imlist
 Section: utils
 Priority: optional
 Maintainer: Debian Input Method Team <debian-input-method@lists.debian.org>
-Uploaders: HAYASHI Kentaro <hayashi@clear-code.com>
+Uploaders: Kentaro Hayashi <hayashi@clear-code.com>
 Build-Depends:
   debhelper (>=10),
   autotools-dev,
