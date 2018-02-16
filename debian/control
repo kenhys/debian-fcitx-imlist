@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Debian Input Method Team <debian-input-method@lists.debian.org>
 Uploaders: Kentaro Hayashi <hayashi@clear-code.com>
 Build-Depends:
-  debhelper (>=10),
+  debhelper (>=11),
   docbook-xsl,
   docbook-xml,
   xsltproc,
