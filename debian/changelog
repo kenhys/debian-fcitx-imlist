@@ -2,6 +2,7 @@ fcitx-imlist (0.5.1-2) unstable; urgency=medium
 
   * debian/control
     - Bump debhelper version to 10.
+    - Remove useless autoreconf build dependency to autotools-dev.
   * debian/rules
     - Remove needless --with autotools_dev since debhelper 9.20160115.
 
