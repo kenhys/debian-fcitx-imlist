@@ -11,7 +11,7 @@ Build-Depends:
   pkg-config,
   libglib2.0-dev,
   fcitx-libs-dev
-Standards-Version: 3.9.7
+Standards-Version: 4.1.3
 Homepage: https://github.com/kenhys/fcitx-imlist
 
 Package: fcitx-imlist
