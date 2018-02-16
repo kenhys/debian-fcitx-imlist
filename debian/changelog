@@ -1,3 +1,12 @@
+fcitx-imlist (0.5.1-2) unstable; urgency=medium
+
+  * debian/control
+    - Bump debhelper version to 10.
+  * debian/rules
+    - Remove needless --with autotools_dev since debhelper 9.20160115.
+
+ -- Kentaro Hayashi <hayashi@clear-code.com>  Fri, 16 Feb 2018 21:27:31 +0900
+
 fcitx-imlist (0.5.1-1) unstable; urgency=medium
 
   * New upstream release.
