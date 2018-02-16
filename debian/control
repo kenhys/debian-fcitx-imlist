@@ -1,7 +1,7 @@
 Source: fcitx-imlist
 Section: utils
 Priority: optional
-Maintainer: HAYASHI Kentaro <kenhys@gmail.com>
+Maintainer: Debian Input Method Team <debian-input-method@lists.debian.org>
 Uploaders: HAYASHI Kentaro <hayashi@clear-code.com>
 Build-Depends:
   debhelper (>=10),
